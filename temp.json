@@ -1,0 +1,1179 @@
+{
+    "location": {
+        "name": "London",
+        "region": "City of London, Greater London",
+        "country": "United Kingdom",
+        "lat": 51.52,
+        "lon": -0.11,
+        "tz_id": "Europe/London",
+        "localtime_epoch": 1707322523,
+        "localtime": "2024-02-07 16:15"
+    },
+    "current": {
+        "last_updated_epoch": 1707321600,
+        "last_updated": "2024-02-07 16:00",
+        "temp_c": 6,
+        "temp_f": 42.8,
+        "is_day": 1,
+        "condition": {
+            "text": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+            "code": 1183
+        },
+        "wind_mph": 5.6,
+        "wind_kph": 9,
+        "wind_degree": 50,
+        "wind_dir": "NE",
+        "pressure_mb": 1004,
+        "pressure_in": 29.65,
+        "precip_mm": 0,
+        "precip_in": 0,
+        "humidity": 87,
+        "cloud": 100,
+        "feelslike_c": 4.6,
+        "feelslike_f": 40.3,
+        "vis_km": 10,
+        "vis_miles": 6,
+        "uv": 2,
+        "gust_mph": 5.7,
+        "gust_kph": 9.1
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2024-02-07",
+                "date_epoch": 1707264000,
+                "day": {
+                    "maxtemp_c": 6.7,
+                    "maxtemp_f": 44.1,
+                    "mintemp_c": 5.6,
+                    "mintemp_f": 42.1,
+                    "avgtemp_c": 6.2,
+                    "avgtemp_f": 43.2,
+                    "maxwind_mph": 12.1,
+                    "maxwind_kph": 19.4,
+                    "totalprecip_mm": 5.82,
+                    "totalprecip_in": 0.23,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 8.2,
+                    "avgvis_miles": 5,
+                    "avghumidity": 80,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 98,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Moderate rain",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png",
+                        "code": 1189
+                    },
+                    "uv": 1
+                },
+                "astro": {
+                    "sunrise": "07:30 AM",
+                    "sunset": "05:00 PM",
+                    "moonrise": "06:31 AM",
+                    "moonset": "01:13 PM",
+                    "moon_phase": "Waning Crescent",
+                    "moon_illumination": 12,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0.22,
+                        "diff_rad": 0.14
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 2.46,
+                        "diff_rad": 1.58
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 5.2,
+                        "diff_rad": 3.41
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 8.74,
+                        "diff_rad": 5.73
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 13.65,
+                        "diff_rad": 8.73
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 45.96,
+                        "diff_rad": 28.49
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 71.46,
+                        "diff_rad": 40.98
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 75.02,
+                        "diff_rad": 42.12
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 72.5,
+                        "diff_rad": 40
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 60.88,
+                        "diff_rad": 33.44
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 50.74,
+                        "diff_rad": 27.86
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-08",
+                "date_epoch": 1707350400,
+                "day": {
+                    "maxtemp_c": 11.1,
+                    "maxtemp_f": 51.9,
+                    "mintemp_c": 5.2,
+                    "mintemp_f": 41.4,
+                    "avgtemp_c": 7.9,
+                    "avgtemp_f": 46.1,
+                    "maxwind_mph": 13,
+                    "maxwind_kph": 20.9,
+                    "totalprecip_mm": 21.7,
+                    "totalprecip_in": 0.85,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 6.7,
+                    "avgvis_miles": 4,
+                    "avghumidity": 91,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 91,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Heavy rain",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/308.png",
+                        "code": 1195
+                    },
+                    "uv": 1
+                },
+                "astro": {
+                    "sunrise": "07:28 AM",
+                    "sunset": "05:02 PM",
+                    "moonrise": "07:16 AM",
+                    "moonset": "02:38 PM",
+                    "moon_phase": "Waning Crescent",
+                    "moon_illumination": 6,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0.08,
+                        "diff_rad": 0.06
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0.84,
+                        "diff_rad": 0.69
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 1.62,
+                        "diff_rad": 1.36
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 2.34,
+                        "diff_rad": 1.98
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 5.78,
+                        "diff_rad": 4.22
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 26.76,
+                        "diff_rad": 17.88
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 37.02,
+                        "diff_rad": 23.32
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 71.24,
+                        "diff_rad": 39.47
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 59.9,
+                        "diff_rad": 33.36
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 48.56,
+                        "diff_rad": 27.07
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 40.46,
+                        "diff_rad": 22.56
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-09",
+                "date_epoch": 1707436800,
+                "day": {
+                    "maxtemp_c": 11.4,
+                    "maxtemp_f": 52.6,
+                    "mintemp_c": 9.7,
+                    "mintemp_f": 49.4,
+                    "avgtemp_c": 10.4,
+                    "avgtemp_f": 50.8,
+                    "maxwind_mph": 17.7,
+                    "maxwind_kph": 28.4,
+                    "totalprecip_mm": 3.43,
+                    "totalprecip_in": 0.13,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 9.5,
+                    "avgvis_miles": 5,
+                    "avghumidity": 84,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 83,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Patchy rain nearby",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 1
+                },
+                "astro": {
+                    "sunrise": "07:27 AM",
+                    "sunset": "05:04 PM",
+                    "moonrise": "07:47 AM",
+                    "moonset": "04:13 PM",
+                    "moon_phase": "New Moon",
+                    "moon_illumination": 2,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0.82,
+                        "diff_rad": 0.43
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 9.02,
+                        "diff_rad": 4.95
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 15.32,
+                        "diff_rad": 8.77
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 27.46,
+                        "diff_rad": 15.67
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 39.94,
+                        "diff_rad": 22.81
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 55.28,
+                        "diff_rad": 33.79
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 55.84,
+                        "diff_rad": 33.84
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 115.48,
+                        "diff_rad": 52.95
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 99.24,
+                        "diff_rad": 46.3
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 80.34,
+                        "diff_rad": 37.6
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 66.94,
+                        "diff_rad": 31.34
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-10",
+                "date_epoch": 1707523200,
+                "day": {
+                    "maxtemp_c": 11.1,
+                    "maxtemp_f": 52,
+                    "mintemp_c": 7,
+                    "mintemp_f": 44.6,
+                    "avgtemp_c": 9,
+                    "avgtemp_f": 48.3,
+                    "maxwind_mph": 9.4,
+                    "maxwind_kph": 15.1,
+                    "totalprecip_mm": 0.08,
+                    "totalprecip_in": 0,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 10,
+                    "avgvis_miles": 6,
+                    "avghumidity": 79,
+                    "daily_will_it_rain": 0,
+                    "daily_chance_of_rain": 0,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Patchy rain nearby",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 1
+                },
+                "astro": {
+                    "sunrise": "07:25 AM",
+                    "sunset": "05:05 PM",
+                    "moonrise": "08:09 AM",
+                    "moonset": "05:49 PM",
+                    "moon_phase": "Waxing Crescent",
+                    "moon_illumination": 0,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 3.38,
+                        "diff_rad": 1.59
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 21.22,
+                        "diff_rad": 10.38
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 56.58,
+                        "diff_rad": 24.39
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 92.77,
+                        "diff_rad": 38.54
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 126.92,
+                        "diff_rad": 54.51
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 379.48,
+                        "diff_rad": 90.48
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 346.76,
+                        "diff_rad": 103.77
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 308.78,
+                        "diff_rad": 101.54
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 265.62,
+                        "diff_rad": 90.94
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 219.18,
+                        "diff_rad": 75.78
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 182.64,
+                        "diff_rad": 63.15
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-11",
+                "date_epoch": 1707609600,
+                "day": {
+                    "maxtemp_c": 7.7,
+                    "maxtemp_f": 45.8,
+                    "mintemp_c": 4.6,
+                    "mintemp_f": 40.3,
+                    "avgtemp_c": 6.4,
+                    "avgtemp_f": 43.6,
+                    "maxwind_mph": 15.4,
+                    "maxwind_kph": 24.8,
+                    "totalprecip_mm": 1.15,
+                    "totalprecip_in": 0.05,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 9.7,
+                    "avgvis_miles": 6,
+                    "avghumidity": 86,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 86,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Patchy rain nearby",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 1
+                },
+                "astro": {
+                    "sunrise": "07:23 AM",
+                    "sunset": "05:07 PM",
+                    "moonrise": "08:25 AM",
+                    "moonset": "07:22 PM",
+                    "moon_phase": "Waxing Crescent",
+                    "moon_illumination": 2,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 3.54,
+                        "diff_rad": 1.7
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 9.08,
+                        "diff_rad": 4.98
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 13.24,
+                        "diff_rad": 7.64
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 17.57,
+                        "diff_rad": 10.46
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 22.56,
+                        "diff_rad": 13.59
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 34.82,
+                        "diff_rad": 22.3
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 27.74,
+                        "diff_rad": 18.22
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 27.32,
+                        "diff_rad": 17.72
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 22.44,
+                        "diff_rad": 14.64
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 20.48,
+                        "diff_rad": 13.1
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 17.08,
+                        "diff_rad": 10.91
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-12",
+                "date_epoch": 1707696000,
+                "day": {
+                    "maxtemp_c": 10.3,
+                    "maxtemp_f": 50.6,
+                    "mintemp_c": 3,
+                    "mintemp_f": 37.4,
+                    "avgtemp_c": 6.1,
+                    "avgtemp_f": 42.9,
+                    "maxwind_mph": 9.6,
+                    "maxwind_kph": 15.5,
+                    "totalprecip_mm": 0.02,
+                    "totalprecip_in": 0,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 10,
+                    "avgvis_miles": 6,
+                    "avghumidity": 79,
+                    "daily_will_it_rain": 0,
+                    "daily_chance_of_rain": 0,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Sunny",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+                        "code": 1000
+                    },
+                    "uv": 3
+                },
+                "astro": {
+                    "sunrise": "07:21 AM",
+                    "sunset": "05:09 PM",
+                    "moonrise": "08:39 AM",
+                    "moonset": "08:52 PM",
+                    "moon_phase": "Waxing Crescent",
+                    "moon_illumination": 6,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 19.16,
+                        "diff_rad": 6.89
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 28.74,
+                        "diff_rad": 10.34
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 38.32,
+                        "diff_rad": 13.78
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 107.74,
+                        "diff_rad": 28.2
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 142.44,
+                        "diff_rad": 35.41
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 177.15,
+                        "diff_rad": 42.62
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 261.52,
+                        "diff_rad": 61.18
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 303.7,
+                        "diff_rad": 70.46
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 345.88,
+                        "diff_rad": 79.74
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 274.73,
+                        "diff_rad": 66.21
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 239.16,
+                        "diff_rad": 59.44
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 203.58,
+                        "diff_rad": 52.67
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 101.79,
+                        "diff_rad": 26.34
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 50.9,
+                        "diff_rad": 13.17
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-13",
+                "date_epoch": 1707782400,
+                "day": {
+                    "maxtemp_c": 7.3,
+                    "maxtemp_f": 45.2,
+                    "mintemp_c": 5.8,
+                    "mintemp_f": 42.4,
+                    "avgtemp_c": 6.6,
+                    "avgtemp_f": 43.9,
+                    "maxwind_mph": 11.2,
+                    "maxwind_kph": 18,
+                    "totalprecip_mm": 1.69,
+                    "totalprecip_in": 0.07,
+                    "totalsnow_cm": 0,
+                    "avgvis_km": 7.6,
+                    "avgvis_miles": 4,
+                    "avghumidity": 88,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": 82,
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": 0,
+                    "condition": {
+                        "text": "Patchy rain nearby",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 2
+                },
+                "astro": {
+                    "sunrise": "07:19 AM",
+                    "sunset": "05:11 PM",
+                    "moonrise": "08:52 AM",
+                    "moonset": "10:20 PM",
+                    "moon_phase": "Waxing Crescent",
+                    "moon_illumination": 13,
+                    "is_moon_up": 0,
+                    "is_sun_up": 0
+                },
+                "hour": [
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 2.6,
+                        "diff_rad": 1.56
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 3.9,
+                        "diff_rad": 2.35
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 5.2,
+                        "diff_rad": 3.13
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 6.38,
+                        "diff_rad": 4.26
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 6.96,
+                        "diff_rad": 4.82
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 7.55,
+                        "diff_rad": 5.38
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 23.81,
+                        "diff_rad": 15.2
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 31.93,
+                        "diff_rad": 20.11
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 40.06,
+                        "diff_rad": 25.02
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 31.5,
+                        "diff_rad": 19.7
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 27.22,
+                        "diff_rad": 17.04
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 22.94,
+                        "diff_rad": 14.38
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 11.47,
+                        "diff_rad": 7.19
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 5.74,
+                        "diff_rad": 3.6
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    },
+                    {
+                        "condition": {},
+                        "short_rad": 0,
+                        "diff_rad": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
