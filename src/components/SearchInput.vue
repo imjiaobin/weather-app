@@ -50,7 +50,7 @@ const getWeather = async (id) =>{
 
 <template>
   <div>
-    <!-- search field -->
+    <!-- 搜尋欄位 -->
     <form>
       <div class="bg-white border border-indigo-600/30 rounded-lg shadow-lg flex items-center">
         <i class="fa-solid fa-magnifying-glass p-2 text-indigo-600"></i>
@@ -63,7 +63,7 @@ const getWeather = async (id) =>{
         />
       </div>
     </form>
-    <!-- search suggestions -->
+    <!-- 列出找到的項目 -->
     <div class="bg-white my-2 rounded-lg shadow-lg">
         <div v-if="searchTerm.result !== null">
             <div v-for="place in searchTerm.result" :key="place.id">

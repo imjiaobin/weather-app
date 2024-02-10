@@ -20,7 +20,7 @@ const deletePlace = (name) =>{
 </script>
 <template>
   <main>
-    <!-- Date -->
+    <!-- 日期 -->
     <div class="text-center mb-6">
       {{ new Date().toLocaleDateString('zh-Hant',{
         weekday:'long',
@@ -29,7 +29,7 @@ const deletePlace = (name) =>{
         day:'numeric',
       })}}
     </div>
-    <!-- Search -->
+    <!-- 搜尋 -->
     <div>
       <SearchInput @place-data="addPlace"/>
     </div>
